@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1744141847907
+current_stage: None
+description: ''
+last_updated_timestamp: 1744141847907
+name: forest_best
+run_id: 546e979f1a99423b8512f85f44d07a48
+run_link: ''
+source: file:///C:/Users/dina.ibrahim/Downloads/session22_mlflow/mlruns/677034607041486297/546e979f1a99423b8512f85f44d07a48/artifacts/RandomForestClassifier/without-imbalance
+status: READY
+status_message: null
+storage_location: file:///C:/Users/dina.ibrahim/Downloads/session22_mlflow/mlruns/677034607041486297/546e979f1a99423b8512f85f44d07a48/artifacts/RandomForestClassifier/without-imbalance
+user_id: null
+version: 3

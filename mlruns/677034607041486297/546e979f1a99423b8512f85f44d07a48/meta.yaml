@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/dina.ibrahim/Downloads/session22_mlflow/mlruns/677034607041486297/546e979f1a99423b8512f85f44d07a48/artifacts
+end_time: 1744141414728
+entry_point_name: ''
+experiment_id: '677034607041486297'
+lifecycle_stage: active
+run_id: 546e979f1a99423b8512f85f44d07a48
+run_name: wise-shrew-975
+run_uuid: 546e979f1a99423b8512f85f44d07a48
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744141367891
+status: 3
+tags: []
+user_id: Dina.Ibrahim

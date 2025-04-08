@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/dina.ibrahim/Downloads/session22_mlflow/mlruns/677034607041486297/42c2ee4887414745b74bc7c839124a04/artifacts
+end_time: 1744142045279
+entry_point_name: ''
+experiment_id: '677034607041486297'
+lifecycle_stage: active
+run_id: 42c2ee4887414745b74bc7c839124a04
+run_name: polite-goat-485
+run_uuid: 42c2ee4887414745b74bc7c839124a04
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744142023172
+status: 3
+tags: []
+user_id: Dina.Ibrahim

@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1744141690345
+current_stage: None
+description: ''
+last_updated_timestamp: 1744141690345
+name: forest_best
+run_id: f27d4e08d7f842249826cfb11a3b9f80
+run_link: ''
+source: models:/forest_best/1
+status: READY
+status_message: null
+storage_location: file:///C:/Users/dina.ibrahim/Downloads/session22_mlflow/mlruns/677034607041486297/f27d4e08d7f842249826cfb11a3b9f80/artifacts/RandomForestClassifier/with-SMOTE
+user_id: null
+version: 2

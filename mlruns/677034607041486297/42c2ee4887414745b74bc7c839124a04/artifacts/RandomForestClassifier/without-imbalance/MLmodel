@@ -1,0 +1,20 @@
+artifact_path: RandomForestClassifier/without-imbalance
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.11.9
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.5.1
+mlflow_version: 2.15.0
+model_size_bytes: 7025802
+model_uuid: e1b990e7ecad4e2489d0e30d982b55b7
+run_id: 42c2ee4887414745b74bc7c839124a04
+utc_time_created: '2025-04-08 19:53:44.620852'

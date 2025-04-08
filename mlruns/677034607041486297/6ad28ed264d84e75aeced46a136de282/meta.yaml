@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/dina.ibrahim/Downloads/session22_mlflow/mlruns/677034607041486297/6ad28ed264d84e75aeced46a136de282/artifacts
+end_time: 1744142065481
+entry_point_name: ''
+experiment_id: '677034607041486297'
+lifecycle_stage: active
+run_id: 6ad28ed264d84e75aeced46a136de282
+run_name: dashing-wolf-413
+run_uuid: 6ad28ed264d84e75aeced46a136de282
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744142045319
+status: 3
+tags: []
+user_id: Dina.Ibrahim
